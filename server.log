@@ -1,15 +1,16 @@
-[02:14:29] alt:V Server 2.8 (release)
-[02:14:29] Starting alt:V Server on 0.0.0.0:7788
-[02:14:29] Loading resource gamemode
-[02:14:29] Loading resource chat
-[02:14:29] Loaded resource chat
-[02:14:29] Loaded resource gamemode
-[02:14:29] Required server permissions:
-[02:14:29] Optional server permissions:
-[02:14:29] Starting HTTP server on 0.0.0.0:7788
-[02:14:29] Main thread started (ThreadId: 13564)
-[02:14:29] Colshape thread started (ThreadId: 10576)
-[02:14:29] EntityStreamer thread started (ThreadId: 6884)
-[02:14:29] Network thread started (ThreadId: 9368)
-[02:14:29] Console thread started (ThreadId: 10336)
-[02:14:29] Server started
+[02:38:11] alt:V Server 2.8 (release)
+[02:38:11] Starting alt:V Server on 0.0.0.0:7788
+[02:38:11] Loading resource gamemode
+[02:38:11] Loading resource chat
+[02:38:11] Loaded resource chat
+[02:38:11] Loaded resource gamemode
+[02:38:11] Required server permissions:
+[02:38:11] Optional server permissions:
+[02:38:11] Starting HTTP server on 0.0.0.0:7788
+[02:38:11] Main thread started (ThreadId: 14832)
+[02:38:11] Colshape thread started (ThreadId: 15744)
+[02:38:11] EntityStreamer thread started (ThreadId: 4912)
+[02:38:11] Network thread started (ThreadId: 3136)
+[02:38:11] Console thread started (ThreadId: 8288)
+[02:38:11] Server started
+[02:38:15] macnine has joined with the ID of 0
