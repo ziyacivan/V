@@ -1,16 +1,29 @@
-[02:38:11] alt:V Server 2.8 (release)
-[02:38:11] Starting alt:V Server on 0.0.0.0:7788
-[02:38:11] Loading resource gamemode
-[02:38:11] Loading resource chat
-[02:38:11] Loaded resource chat
-[02:38:11] Loaded resource gamemode
-[02:38:11] Required server permissions:
-[02:38:11] Optional server permissions:
-[02:38:11] Starting HTTP server on 0.0.0.0:7788
-[02:38:11] Main thread started (ThreadId: 14832)
-[02:38:11] Colshape thread started (ThreadId: 15744)
-[02:38:11] EntityStreamer thread started (ThreadId: 4912)
-[02:38:11] Network thread started (ThreadId: 3136)
-[02:38:11] Console thread started (ThreadId: 8288)
-[02:38:11] Server started
-[02:38:15] macnine has joined with the ID of 0
+[03:50:38] alt:V Server 2.8 (release)
+[03:50:38] Starting alt:V Server on 0.0.0.0:7788
+[03:50:38] Loading resource gamemode
+[03:50:38] Loading resource chat
+[03:50:38] Loaded resource chat
+[03:50:38] Loaded resource gamemode
+[03:50:38] Required server permissions:
+[03:50:38] Optional server permissions:
+[03:50:38] Starting HTTP server on 0.0.0.0:7788
+[03:50:38] Main thread started (ThreadId: 9460)
+[03:50:38] Colshape thread started (ThreadId: 19536)
+[03:50:38] EntityStreamer thread started (ThreadId: 12844)
+[03:50:38] Network thread started (ThreadId: 14188)
+[03:50:38] Console thread started (ThreadId: 19816)
+[03:50:38] Server started
+[03:50:45] [chat:cmd] macnine: /hp
+[03:50:46] [chat:cmd] macnine: /sethp
+[03:50:46][Error] [V8] Exception at gamemode:file:///D:/Geli%C5%9Ftirme/Alt%20V/Oyun%20Modlar%C4%B1/V/resources/gamemode/server/server.mjs:53
+[03:50:46][Error]       player.health(100);
+[03:50:46][Error]   TypeError: player.health is not a function
+    at file:///D:/Geli%C5%9Ftirme/Alt%20V/Oyun%20Modlar%C4%B1/V/resources/gamemode/server/server.mjs:53:12
+[03:50:46][Warning] Event handler at chat:file:///D:/Geli%C5%9Ftirme/Alt%20V/Oyun%20Modlar%C4%B1/V/resources/chat/index.mjs:15 was too long 9ms
+[03:51:52] Stopping resource gamemode
+[03:51:52] Stopped resource gamemode
+[03:51:52] Stopping resource chat
+[03:51:52] Stopped resource chat
+[03:51:52][03:51:52][03:51:52][03:51:52] CreateFile failed.Error: 32
+ CreateFile failed.Error: 32
+ CreateFile failed.Error: 32
